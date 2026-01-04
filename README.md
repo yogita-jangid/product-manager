@@ -118,7 +118,8 @@ The application is deployed using a modern hosting platform:
 Netlify / Vercel
 
 🔗 Live Demo:
-<PASTE DEPLOYED LINK HERE>
+https://bright-semolina-84daff.netlify.app
+
 
 ✅ Assignment Requirements Covered
 
